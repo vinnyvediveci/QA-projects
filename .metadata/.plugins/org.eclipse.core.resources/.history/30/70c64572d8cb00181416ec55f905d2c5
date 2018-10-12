@@ -1,0 +1,22 @@
+package com.qa.MavenCalculator;
+
+
+
+public class newCalculator {
+	public static void main(String[] args) {
+		MathOperation addition = ( a, b) -> a + b; 
+		MathOperation subtraction = ( a, b) -> a - b;
+		MathOperation multiplication = ( a, b) -> a * b;
+		MathOperation division = ( a, b) -> a / b;
+		
+	calculator(addition, 1,4);
+	}
+	
+	
+	
+
+	public static int calculator(MathOperation op, int a, int b) {
+		return op.operate(a, b);
+	}
+	
+}

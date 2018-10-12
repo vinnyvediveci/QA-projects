@@ -1,0 +1,14 @@
+package com.qa.Person;
+
+public class MainPerson {
+	 public static void main(String[] args) {
+		 
+		 Person p1 = new Person("John", 23, "Pilot");
+		 Person p2 = new Person("Tom", 36, "Engineer");
+		 Person p3 = new Person("James", 45, "Stalker");
+	     System.out.println(p1.toString());
+		 System.out.println(p1.getName());
+		 System.out.println(p2.getName());
+		 System.out.println(p3.getName());
+	 }
+}

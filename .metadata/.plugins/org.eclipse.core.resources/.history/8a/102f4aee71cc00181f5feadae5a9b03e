@@ -1,0 +1,11 @@
+package com.qa.Person;
+
+public class MainPerson {
+	 public static void main(String[] args) {
+		 
+		 Person p1 = new Person("john", 23, "Pilot");
+	     System.out.print(p1.toString());
+		 System.out.println(p1.getName());
+		 
+	 }
+}

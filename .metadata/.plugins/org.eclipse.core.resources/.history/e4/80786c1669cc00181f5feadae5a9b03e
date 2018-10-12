@@ -1,0 +1,26 @@
+package com.qa.delegates;
+
+/**
+ * Hello world!
+ *
+ *
+ */
+public class Delegate 
+{
+    
+       
+       private int techSkills;
+       private int softSkills;
+       public String name; 
+       
+       public void remove() {
+    	   System.out.print("Delegate was removed");
+       
+    }
+       
+       public void changeStream() {
+    	   System.out.println("delegate changed stream");
+       }
+       
+       
+}

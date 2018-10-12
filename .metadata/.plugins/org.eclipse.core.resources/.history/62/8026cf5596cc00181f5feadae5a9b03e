@@ -1,0 +1,11 @@
+package com.qa.storedInGarage;
+
+public class Vehicle {
+	
+   int vehicleNo;
+   int wheelNumber;
+   String ownerName;
+   String fuelType;
+   int mileage;
+   String color;
+}

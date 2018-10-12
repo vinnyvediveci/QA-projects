@@ -1,0 +1,33 @@
+package com.qa.LibrarySystem;
+
+public class Dissertations {
+	private String itemId;
+	private int pages;
+	private boolean checkedIn;
+	private boolean inLibrary;
+	
+	public Dissertations(String itemId, int pages, boolean checkedIn, boolean inLibrary) {
+		this.itemId = itemId;
+		this.setPages(pages);
+		this.checkedIn = checkedIn;
+		this.inLibrary = inLibrary;
+	}
+
+	public String getItemId() {
+		return itemId;
+	}
+
+	public void setItemId(String itemId) {
+		this.itemId = itemId;
+	}
+
+	public int getPages() {
+		return pages;
+	}
+
+	public void setPages(int pages) {
+		this.pages = pages;
+	}
+ 
+
+}

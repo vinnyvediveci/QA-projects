@@ -1,0 +1,27 @@
+package com.qa.storedInGarage;
+
+public class TukTuk {
+ 
+	private int driverId;
+	private boolean hasHood; 
+	  
+	  public TukTuk(int driverId, boolean hasHood) {
+		  
+	  }
+
+	public boolean isHasHood() {
+		return hasHood;
+	}
+
+	public void setHasHood(boolean hasHood) {
+		this.hasHood = hasHood;
+	}
+
+	public int getDriverId() {
+		return driverId;
+	}
+
+	public void setDriverId(int driverId) {
+		this.driverId = driverId;
+	}
+}

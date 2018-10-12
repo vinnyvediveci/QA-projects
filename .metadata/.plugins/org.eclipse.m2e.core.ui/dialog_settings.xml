@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Admin\eclipse-workspace\TestingMaven\pom.xml"/>
+			<item value="C:\Users\Admin\eclipse-workspace\storedInGarage\src\main\java\com\qa\storedInGarage\TukTuk.java"/>
+			<item value="C:\Users\Admin\eclipse-workspace\Garage\src\main\java\com\qa\Garage\Garage.java"/>
+			<item value="C:\Users\Admin\eclipse-workspace\Person\src\main\java\com\qa\Person\MainPerson.java"/>
+			<item value="C:\Users\Admin\eclipse-workspace\lambdaHelloWorld\src\main\java\com\qa\lambdaHelloWorld\Greetings.java"/>
+			<item value="C:\Users\Admin\eclipse-workspace\Calculator\src\Calculations.java"/>
+			<item value="C:\Users\Admin\eclipse-workspace"/>
+			<item value="C:\Users\Admin\eclipse-workspace\Iteration\src\hundredToNineHundred.java"/>
+			<item value="C:\Users\Admin\eclipse-workspace\ArrayList\src\Arrays.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.qa.findOperatorOfCalculator"/>
+			<item value="com.qa.DoggoCompetion"/>
+			<item value="com.qa.LibrarySystem"/>
+			<item value="com.qa.TestingMaven"/>
+			<item value="com.qa.storedInGarage"/>
+			<item value="com.qa.Garage"/>
+			<item value="com.qa.Person"/>
+			<item value="com.qa.delegates"/>
+		</list>
+		<list key="groupId">
+			<item value="com.qa"/>
+		</list>
+		<list key="artifactId">
+			<item value="findOperatorOfCalculator"/>
+			<item value="DoggoCompetion"/>
+			<item value="LibrarySystem"/>
+			<item value="TestingMaven"/>
+			<item value="storedInGarage"/>
+			<item value="Garage"/>
+			<item value="Person"/>
+			<item value="delegates"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

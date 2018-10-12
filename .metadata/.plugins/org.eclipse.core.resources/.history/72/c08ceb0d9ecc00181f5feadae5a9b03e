@@ -1,0 +1,20 @@
+package com.qa.storedInGarage;
+
+public class Runner {
+	 public static void main( String[] args )
+	    {
+	       Garage G1 = new Garage();
+	       Vehicle H1 = new Helicopter(6, 5);
+	       
+	       Helicopter H2 = new Helicopter(45, 45);
+	       
+	       
+	       
+	       
+	       G1.addVehicle(H1);	     
+	       System.out.print(G1.listVehicles());
+	       
+	      
+
+	  }
+}

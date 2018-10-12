@@ -1,0 +1,9 @@
+package com.qa.TestingMaven;
+
+public class BlackJackTest {
+
+	 @test
+	public void testGame() {
+        assertEquals(0, 34, 67);
+        
+}

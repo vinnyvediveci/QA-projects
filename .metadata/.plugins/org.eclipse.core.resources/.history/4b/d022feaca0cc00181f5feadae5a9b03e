@@ -1,0 +1,34 @@
+package com.qa.storedInGarage;
+
+import java.util.ArrayList;
+
+
+/**
+ * Hello world!
+ *
+ */
+public class Garage {
+	private ArrayList<Vehicle> objectList;
+
+	public Garage() {
+		objectList = new ArrayList<Vehicle>();
+	}
+	
+	public void addVehicle(Vehicle Vehicle) {
+		objectList.add(Vehicle);
+	}
+	
+	public ArrayList<Vehicle> listVehicles() {
+
+		return objectList;
+
+	}
+   
+	 public static void calculateBill() {
+		for (i = 0, i < objectList.length, i++) {
+			
+		}
+	 }
+ 
+
+}

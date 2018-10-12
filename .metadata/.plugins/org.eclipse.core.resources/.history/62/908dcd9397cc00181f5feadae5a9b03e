@@ -1,0 +1,24 @@
+package com.qa.storedInGarage;
+
+public class Helicopter extends Vehicle{
+
+	private int rotorLength;
+	private int maxDistanceOnFullTank;
+	  
+	public Helicopter(int rotorLength, int maxDistanceOnFullTank) {
+		
+	}
+	  public static void takeOff() {
+		  
+	  }
+	  
+	  public static void hover() {
+		  
+	  }
+	  
+	  @Override
+	  public String toString() {
+		  
+	  }
+	  
+}

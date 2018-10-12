@@ -1,0 +1,7 @@
+package com.qa.Garage;
+
+public class MotorBike extends Vehicle {
+     
+	String typeofBike;
+	int topSpeed;
+}

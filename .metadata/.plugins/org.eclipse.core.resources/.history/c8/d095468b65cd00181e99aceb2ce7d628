@@ -1,0 +1,8 @@
+package com.qa.findOperatorOfCalculator;
+
+public class Runner {
+ public static void main(String[] args) {
+	 
+	 findOperator(6, 2, 3);
+ }
+}

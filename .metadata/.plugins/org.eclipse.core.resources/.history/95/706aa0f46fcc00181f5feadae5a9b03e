@@ -1,0 +1,12 @@
+package com.qa.Person;
+
+public class MainPerson {
+	 public static void main(String[] args) {
+		 
+		 Person p1 = new Person();
+		 
+		 p1.setName("john");
+		 p1.getName();
+		 
+	 }
+}

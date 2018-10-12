@@ -1,0 +1,15 @@
+import java.util.List;
+
+public class Arrays {
+ public static void main(String args) {
+	 
+	   List<Integer> numbers = ArrayExercise.asList(3, 2, 2, 3, 7, 3, 5, 9, 8, 12);
+	   
+	   System.out.print(numbers);
+	 
+ }
+ 
+ 
+ 
+
+}

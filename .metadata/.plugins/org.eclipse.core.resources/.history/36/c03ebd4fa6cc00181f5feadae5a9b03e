@@ -1,0 +1,35 @@
+package com.qa.storedInGarage;
+
+public class MotorBike extends Vehicle {
+     
+	private String typeofBike;
+	private int topSpeed;
+	
+	public MotorBike(String typeOfBike, int topSpeed) {
+		
+	}
+	
+	public static void wheelie () {
+		
+	}
+	
+	public static void rev() {
+		
+	}
+
+	public String getTypeofBike() {
+		return typeofBike;
+	}
+
+	public void setTypeofBike(String typeofBike) {
+		this.typeofBike = typeofBike;
+	}
+
+	public int getTopSpeed() {
+		return topSpeed;
+	}
+
+	public void setTopSpeed(int topSpeed) {
+		this.topSpeed = topSpeed;
+	}
+}

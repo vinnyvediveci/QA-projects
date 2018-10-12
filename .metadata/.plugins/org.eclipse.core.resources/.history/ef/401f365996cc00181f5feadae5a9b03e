@@ -1,0 +1,7 @@
+package com.qa.storedInGarage;
+
+public class TukTuk {
+ 
+	  int driverId;
+	  boolean hasHood; 
+}

@@ -1,0 +1,15 @@
+package com.qa.LibrarySystem;
+
+public class Dissertations {
+	private String itemId;
+
+	public String getItemId() {
+		return itemId;
+	}
+
+	public void setItemId(String itemId) {
+		this.itemId = itemId;
+	}
+ 
+
+}
