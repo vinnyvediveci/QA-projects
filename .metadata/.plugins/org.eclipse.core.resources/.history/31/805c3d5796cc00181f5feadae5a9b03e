@@ -1,7 +1,0 @@
-package com.qa.storedInGarage;
-
-public class Helicopter extends Vehicle{
-
-	  int rotorLength;
-	  int maxDistanceOnFullTank;
-}

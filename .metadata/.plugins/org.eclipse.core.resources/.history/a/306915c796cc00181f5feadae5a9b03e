@@ -1,8 +1,0 @@
-package com.qa.storedInGarage;
-
-public class Runner {
-	 public static void main( String[] args )
-	    {
-	       
-	    }
-}

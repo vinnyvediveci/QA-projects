@@ -10,14 +10,14 @@ public class Library {
 	  boolean checkIn;
 	  boolean inLibrary;
 	  boolean personInLibrary;
-	  
+	  ArrayList<Library> libraryFile = new ArrayList<Library>();
 	 public Library() {
-		 ArrayList<Library> libraryFile = new ArrayList<Library>();
+		
 		
 	 }
 	  
-	 public static void addToLibrary(Object obj) {
-		 libraryFile.add(obj);
+	 public void addToLibrary(Object obj) {
+		 libraryFile.add((Library) obj);
 	 }
 	 public static boolean checkingItemIn(boolean checkIn) {
 		 return true;

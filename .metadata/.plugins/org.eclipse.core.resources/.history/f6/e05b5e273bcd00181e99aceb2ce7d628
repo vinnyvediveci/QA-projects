@@ -1,8 +1,0 @@
-package com.qa.TestingMaven;
-
-public class BlackJackTest {
-
-	public void testGame() {
-		
-	}
-}
